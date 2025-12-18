@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="plansphere-ai\Screenshot 2025-12-18 203106.png"/>
+<img width="1200" height="475" alt="GHBanner" src="plansphere-ai\publicbanner.png"/>
 </div>
 
 # PlanSphere AI 🌍✈️ 
