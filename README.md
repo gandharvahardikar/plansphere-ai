@@ -114,10 +114,4 @@ npm run dev
 
 This project is licensed under the MIT License.
 
-Made with ❤️ and 🤖 by [Your Name]
-
-```
-
-**Would you like me to help you set up a GitHub Action to automate the deployment of this project to a hosting service?**
-
-```
+Made with ❤️ and 🤖 by Gandharva
