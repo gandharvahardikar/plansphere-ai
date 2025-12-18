@@ -1,4 +1,6 @@
-To publish your project professionally on GitHub, you should use a well-formatted `README.md`. Below is the complete, properly formatted Markdown content for your project.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="plansphere-ai\Screenshot 2025-12-18 203106.png" />
+</div>
 # PlanSphere AI 🌍✈️ 
 
 ### The Future of Travel Planning.
